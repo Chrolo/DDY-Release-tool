@@ -20,7 +20,7 @@ subprocess.call([config['mktorrent_location'],
                  '-o', file_name,
                  torrent_files_folder])
 
-# 2. COPY files/folder to another folder (???)
+# 2. COPY files/folder to another folder
 
 print(file_name)
 shutil.move(file_name, torrent_save_path)
