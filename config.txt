@@ -1,0 +1,4 @@
+Ex cat=neko (no spaces before or after the '=')
+mktorrent_location=C:\Users\chris\Documents\DDY\mktorrent.exe
+announce=[http://open.nyaatorrents.info:6544/announce,http://tracker.minglong.org:8080/announce]
+comment=DameDesuYo Fansubs - http://damedesuyo.com/
